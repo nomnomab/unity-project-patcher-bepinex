@@ -6,7 +6,10 @@
   "unity": "2022.3",
   "unityRelease": "9f1",
   "licensesUrl": "https://choosealicense.com/licenses/mit/",
-  "dependencies": {},
+  "dependencies": {
+    "com.nomnom.unity-project-patcher": "https://github.com/nomnomab/unity-project-patcher.git",
+    "com.unity.ugui": "1.0.0"
+  },
   "devDependencies": {},
   "samples": [],
   "author": {
